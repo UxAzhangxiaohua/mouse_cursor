@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Klee Normal Select.cur
+
+[Help]
+Path=Klee Help.cur
+
+[AppStarting]
+Path=Klee Working in Background.cur
+
+[Wait]
+Path=Klee Busy.cur
+
+[Crosshair]
+Path=Klee Unavailable.cur
+
+[No]
+Path=Klee Unavailable 2.cur
+
+[SizeNS]
+Path=Klee Vertical Resize.cur
+
+[SizeWE]
+Path=Klee Horizontal Resize.cur
+
+[SizeNWSE]
+Path=Klee Diagonal Resize 1.cur
+
+[SizeNESW]
+Path=Klee Diagonal Resize 2.cur
+
+[SizeAll]
+Path=Klee Move.cur
+
+[UpArrow]
+Path=Klee Alternate Select.cur
+
+[IBeam]
+Path=Klee Text Select.cur
+
+[NWPen]
+Path=Klee Handwriting.cur
+
+[Hand]
+Path=Klee Link Select.cur
+
